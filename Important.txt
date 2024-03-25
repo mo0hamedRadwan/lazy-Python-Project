@@ -1,0 +1,19 @@
+Websites
+========
+Shahid4u - Cima4u - Mycima - Movizland - "FaselHD" - "Akoam" - "cimaclub" - "asia2d" - ....
+Server : (myviid - upbam - tubeload - letsupload - ....)
+
+Requirements
+===========
+
+Convert Ui to Py  ===>  pyuic5 -x -o pyfilename.py design.ui
+Convert Code to Exe  ====>  python PyInstaller.py --noconsole --onefile "yourscript.py"
+
+Problems: 
+=========
+Make Threading Loading with Scraping Method
+QtableWidgets => itemAt return None
+Make NewWindow PopUp Parent Window
+How Can Speed Up My Code ?
+Can Design Pattern Help Me To Optimize Code ?
+After Finish Make Project beautiful :)
